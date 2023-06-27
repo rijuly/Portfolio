@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(55, 255, 0);
+    text-align:center;
+}
+
+#btn_display{
+    background-color: rgb(169, 8, 172);
+    color:deeppink;
+}
